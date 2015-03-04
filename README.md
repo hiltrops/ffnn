@@ -1,0 +1,2 @@
+# ffnn
+Freifunk Nemmenich
